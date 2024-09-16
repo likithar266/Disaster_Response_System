@@ -1,6 +1,6 @@
 # Weather-based Disaster Risk Assessment
 
-A C application that fetches real-time weather data using the Windows API (WinINet) and assesses disaster risks based on weather conditions. It processes the data without JSON parsing.
+A C application that fetches real-time weather data from the [Weatherstack API](https://weatherstack.com/) and assesses disaster risks based on weather conditions. It uses **WinINet** for HTTP requests and parses without JSON response to provide insights.
 
 ## Features
 - Real-time weather data retrieval using WinINet.
