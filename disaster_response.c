@@ -6,7 +6,7 @@
 
 #pragma comment(lib, "wininet.lib")
 
-#define API_KEY "fe8f84ba0532e17e3428929062e452c0"
+#define API_KEY "your_API_key_here"
 #define MAX_CITY_NAME 100
 #define MAX_URL_LENGTH 256
 #define MAX_RESPONSE_SIZE 16384
